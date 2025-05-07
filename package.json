@@ -1,0 +1,26 @@
+{
+  "name": "lalithareact",
+  "version": "1.0.0",
+  "description": "first react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "zest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sLalithaBhavani/9675_react.git"
+  },
+  "keywords": [
+    "npm",
+    "react"
+  ],
+  "author": "lalita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sLalithaBhavani/9675_react/issues"
+  },
+  "homepage": "https://github.com/sLalithaBhavani/9675_react#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
